@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Nets>
+  <netadp>
+    <Description>Broadcom NetLink (TM) Gigabit Ethernet</Description>
+    <Index>990</Index>
+    <MACAddress>00:23:AE:B7:5D:44</MACAddress>
+    <IPAddress>10.58.87.91, fe80::5c5b:590e:17d3:e1c1</IPAddress>
+    <IPSubnet>255.255.254.0, 64</IPSubnet>
+    <DefaultIPGateway>10.58.86.3</DefaultIPGateway>
+    <DNSServerSearchOrder>10.58.97.18, 10.58.97.26, 10.58.98.79, 10.58.98.80, 10.58.68.18, 10.58.57.12</DNSServerSearchOrder>
+  </netadp>
+  <netadp>
+    <Description>VirtualBox Host-Only Ethernet Adapter</Description>
+    <Index>991</Index>
+    <MACAddress>08:00:27:00:B4:E1</MACAddress>
+    <IPAddress>169.254.107.222</IPAddress>
+    <IPSubnet>255.255.0.0</IPSubnet>
+    <DefaultIPGateway></DefaultIPGateway>
+    <DNSServerSearchOrder></DNSServerSearchOrder>
+  </netadp>
+</Nets>

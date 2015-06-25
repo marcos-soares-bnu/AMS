@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<ListClasses>
+	<item><CHK></CHK><SEL>001</SEL><VALUE>Win32_NetworkAdapterConfiguration</VALUE></item>
+	<item><CHK></CHK><SEL>002</SEL><VALUE>Win32_Printer</VALUE></item>
+	<item><CHK></CHK><SEL>003</SEL><VALUE>Win32_Share</VALUE></item>
+	<item><CHK></CHK><SEL>004</SEL><VALUE>Win32_ServerSession</VALUE></item>
+	<item><CHK></CHK><SEL>005</SEL><VALUE>Win32_ConnectionShare</VALUE></item>
+	<item><CHK></CHK><SEL>006</SEL><VALUE>Win32_Product</VALUE></item>
+	<item><CHK></CHK><SEL>007</SEL><VALUE>Win32_ScheduledJob</VALUE></item>
+</ListClasses>
+

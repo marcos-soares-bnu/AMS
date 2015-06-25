@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<ListClasses>
+	<item><CHK>0</CHK><VALUE>[--- Lista Comandos ---]</VALUE><SEL>DS_AUDITXML_CMD.exe -l C:\inetpub\wwwroot\DS_AuditXML\Xml_Data\ATs\XML_Data\ >> C:\inetpub\wwwroot\DS_AuditXML\Xml_Data\ATs\ds_mover-L.log</SEL></item>
+	<item><CHK>1</CHK><VALUE>[Mover -L (DS_auditXML)]</VALUE><SEL>DS_AUDITXML_CMD.exe -l C:\inetpub\wwwroot\DS_AuditXML\Xml_Data\ATs\XML_Data\ >> C:\inetpub\wwwroot\DS_AuditXML\Xml_Data\ATs\ds_mover-L.log</SEL></item>
+	<item><CHK>1</CHK><VALUE>[Grava DB (DS_auditXML)]</VALUE><SEL>DS_AUDITXML_CMD.exe -g C:\inetpub\wwwroot\DS_AuditXML\Xml_Data\ATs\XML_Data\ >> C:\inetpub\wwwroot\DS_AuditXML\Xml_Data\ATs\ds_gravaDB.log</SEL></item>
+	<item><CHK>1</CHK><VALUE>[Ajuda -? (DS_auditXML)]</VALUE><SEL>DS_AUDITXML_CMD.exe -?                                                       >> C:\inetpub\wwwroot\DS_AuditXML\Xml_Data\ATs\ds_ajudaDS.log</SEL></item>
+</ListClasses>

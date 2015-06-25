@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<RptGeral dtHrUpd="20140620141400">
+  <rpt Id="1">
+    <Servidor>10.134.99.38</Servidor>
+    <Usuario>Usuario1</Usuario>
+    <Privilegio>Grupo1</Privilegio>
+    <Motivo>Teste</Motivo>
+    <Acao>-</Acao>
+  </rpt>
+</RptGeral>
