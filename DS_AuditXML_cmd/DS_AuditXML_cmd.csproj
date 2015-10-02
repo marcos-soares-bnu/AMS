@@ -51,10 +51,10 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <ManifestCertificateThumbprint>C1BECDC9B0E1EADDA362A4D8133AB786C26C388A</ManifestCertificateThumbprint>
+    <ManifestCertificateThumbprint>7659475B5EB14DDD0B976A2E07EA93C2C7941632</ManifestCertificateThumbprint>
   </PropertyGroup>
   <PropertyGroup>
-    <ManifestKeyFile>DS_AuditXML_cmd_TemporaryKey.pfx</ManifestKeyFile>
+    <ManifestKeyFile>DS_AuditXML_cmd_1_TemporaryKey.pfx</ManifestKeyFile>
   </PropertyGroup>
   <PropertyGroup>
     <GenerateManifests>true</GenerateManifests>
@@ -86,6 +86,7 @@
     <None Include="App.config">
       <SubType>Designer</SubType>
     </None>
+    <None Include="DS_AuditXML_cmd_1_TemporaryKey.pfx" />
     <None Include="DS_AuditXML_cmd_TemporaryKey.pfx" />
     <None Include="Properties\app.manifest" />
   </ItemGroup>

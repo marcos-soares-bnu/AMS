@@ -55,7 +55,7 @@ namespace MPSfwk
                 //
                 return owsID;
             }
-            catch (Exception)
+            catch (Exception ex)
             {
                 return "-1";
             }
